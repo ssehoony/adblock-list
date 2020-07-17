@@ -4,4 +4,4 @@
 !
 ! Filter list designed to fight circumvention ads in Adblock Plus
 @@||navercorp.com/$document
-@@||github.com
+@@||github.com/*
