@@ -3,9 +3,11 @@
 ! Expires: 24 hours (update frequency)
 !
 ! Filter list designed to fight circumvention ads in Adblock Plus
+
 ##U-CHAT
 ###main4x3_banner
 ##.board-tail-banner
 ##.basic-banner
-blgo999.net##[id="right_down_float_ad"]
-blgo999.net##[id="left_down_float_ad"]
+
+##[id="right_down_float_ad"]
+##[id="left_down_float_ad"]
