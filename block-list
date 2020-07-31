@@ -11,8 +11,10 @@
 ##.board-tail-banner
 ##.basic-banner
 ###main-banner-view
-##DIV[id="viewcomment"]
-##FORM[id="fviewcomment"]
+! ##DIV[id="viewcomment"]
+! ##FORM[id="fviewcomment"]
+###viewcomment
+###fviewcomment
 
 ! blgo999
 ##[id="right_down_float_ad"]
