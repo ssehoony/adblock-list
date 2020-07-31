@@ -4,13 +4,16 @@
 !
 ! Filter list designed to fight circumvention ads in Adblock Plus
 
+
+! newtoki
 ##U-CHAT
 ###main4x3_banner
 ##.board-tail-banner
 ##.basic-banner
-
-! newtoki
 ###main-banner-view
+##DIV[id="viewcomment"]
+##FORM[id="fviewcomment"]
 
+! blgo999
 ##[id="right_down_float_ad"]
 ##[id="left_down_float_ad"]
