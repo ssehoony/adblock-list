@@ -21,6 +21,6 @@
 ###left_down_float_ad
 
 ! google ads
-###google_ads_*
-##.google_ads_*
-##[name="google_ads_*"]
+##[id^="google_ads_"]
+##[class*="google_ads_"]
+##[name^="google_ads_"]
