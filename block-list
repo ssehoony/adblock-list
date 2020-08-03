@@ -16,6 +16,11 @@
 ###viewcomment
 ###fviewcomment
 
-! blgo999
-##[id="right_down_float_ad"]
-##[id="left_down_float_ad"]
+! blgo
+###right_down_float_ad
+###left_down_float_ad
+
+! google ads
+###google_ads_*
+##.google_ads_*
+##[name="google_ads_*"]
