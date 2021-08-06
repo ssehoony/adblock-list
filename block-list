@@ -4,9 +4,6 @@
 !
 ! Filter list designed to fight circumvention ads in Adblock Plus
 
-##DIV[class="col-15 col-md-9 col-sm-9"]
-
-
 ! newtoki
 ##U-CHAT
 ###main4x3_banner
@@ -18,6 +15,7 @@
 ###viewcomment
 ###fviewcomment
 ! ##A[href*="/bbs/linkbn.php"]
+###id_mbv .id_bbn
 
 ! blgo
 ###right_down_float_ad
