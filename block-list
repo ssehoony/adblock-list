@@ -15,7 +15,7 @@
 ! ##FORM[id="fviewcomment"]
 ###viewcomment
 ###fviewcomment
-##A[href*="/bbs/linkbn.php"]
+! ##A[href*="/bbs/linkbn.php"]
 
 ! blgo
 ###right_down_float_ad
