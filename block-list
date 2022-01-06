@@ -25,3 +25,4 @@
 ##[id^="google_ads_"]
 ##[class*="google_ads_"]
 ##[name^="google_ads_"]
+##.adsbygoogle
