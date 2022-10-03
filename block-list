@@ -17,12 +17,11 @@
 ! ##A[href*="/bbs/linkbn.php"]
 ###id_mbv .id_bbn
 
-! blgo
-###right_down_float_ad
-###left_down_float_ad
-
 ! google ads
 ##[id^="google_ads_"]
 ##[class*="google_ads_"]
 ##[name^="google_ads_"]
 ##.adsbygoogle
+
+! yozm.wishket.com
+yozm.wishket.com##.banner-sticky
