@@ -25,3 +25,6 @@
 
 ! yozm.wishket.com
 yozm.wishket.com##.banner-sticky
+
+! blacktoon
+##body > div.toon-viewer > div.toon-viewer-warp > div.col-12 > a[href]
