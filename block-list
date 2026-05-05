@@ -28,3 +28,12 @@ yozm.wishket.com##.banner-sticky
 
 ! blacktoon
 ##body > div.toon-viewer > div.toon-viewer-warp > div.col-12 > a[href]
+
+##DIV[class="row at-row at-banner header"]
+##DIV[class="row at-row at-banner"]
+##TD[class="row at-row at-banner"]
+##DIV[class="row at-row at-banner footer hidden-xs hidden-sm"]
+##INS[class="adsbygoogle adsbygoogle-noablate"]
+##INS[class="adsbygoogle"]
+##[class*="banner"]
+@@||kr.moyens.net^$document
